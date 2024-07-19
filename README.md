@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/8872e725-16cb-4b12-a63d-4b07c2421560)
+
+
+
+
+
 2Д игра
 
 Персонаж игрока:
